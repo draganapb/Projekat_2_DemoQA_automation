@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3a57c96-2f79-40be-891b-a680c82cc28d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L3V3F12av1ssmud5m641rzq9t9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Dragana/IdeaProjects/Projekat_2_DemoQA",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DemoQABase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CheckBoxTest.TestCheckParentChildRelation">
+    <configuration name="CheckBoxTest.TestCheckParentChildRelation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Projekat_2_DemoQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoQAtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoQAtests" />
+      <option name="MAIN_CLASS_NAME" value="DemoQAtests.CheckBoxTest" />
+      <option name="METHOD_NAME" value="TestCheckParentChildRelation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckBoxTest.TestcheckParentChildRelation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Projekat_2_DemoQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoQAtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoQAtests" />
+      <option name="MAIN_CLASS_NAME" value="DemoQAtests.CheckBoxTest" />
+      <option name="METHOD_NAME" value="TestcheckParentChildRelation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBoxTest.successfullySubmittedFormWithoutFullName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Projekat_2_DemoQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoQAtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoQAtests" />
+      <option name="MAIN_CLASS_NAME" value="DemoQAtests.TextBoxTest" />
+      <option name="METHOD_NAME" value="successfullySubmittedFormWithoutFullName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesTest.successfullyAddedNewContact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Projekat_2_DemoQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoQAtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoQAtests" />
+      <option name="MAIN_CLASS_NAME" value="DemoQAtests.WebTablesTest" />
+      <option name="METHOD_NAME" value="successfullyAddedNewContact" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesTest.unsuccessfullyAddedContactWithoutFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Projekat_2_DemoQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoQAtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoQAtests" />
+      <option name="MAIN_CLASS_NAME" value="DemoQAtests.WebTablesTest" />
+      <option name="METHOD_NAME" value="unsuccessfullyAddedContactWithoutFirstName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckBoxTest.TestCheckParentChildRelation" />
+        <item itemvalue="TestNG.TextBoxTest.successfullySubmittedFormWithoutFullName" />
+        <item itemvalue="TestNG.WebTablesTest.unsuccessfullyAddedContactWithoutFirstName" />
+        <item itemvalue="TestNG.WebTablesTest.successfullyAddedNewContact" />
+        <item itemvalue="TestNG.CheckBoxTest.TestcheckParentChildRelation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a57c96-2f79-40be-891b-a680c82cc28d" name="Changes" comment="" />
+      <created>1675099573403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675099573403</updated>
+    </task>
+    <servers />
+  </component>
+</project>
